@@ -25,3 +25,9 @@
 [![](https://komarev.com/ghpvc/?username=ruthv1kkk&icon=4&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+![snake gif](https://github.com/ruthv1kkk/ruthv1kkk/blob/output/github-contribution-grid-snake.svg)
