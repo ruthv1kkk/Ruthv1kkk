@@ -1,5 +1,5 @@
 <p align="center">
-  <src="https://raw.githubusercontent.com/ruthv1kkk/Ruthv1kkk/main/gif1.mp4" 
+  <src="https://raw.githubusercontent.com/ruthv1kkk/Ruthv1kkk/main/ezgif.com-video-to-gif-converter.gif" 
     width="100%"
     autoplay
     loop
