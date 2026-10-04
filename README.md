@@ -1,176 +1,161 @@
 <div align="center">
 
-# ✦ E RUTHVIK CHOWDARY
+✦ E RUTHVIK CHOWDARY
 
-### `Developer • Creative Coder • AI/ML Explorer`
+Creative Developer · Python · AI/ML · Computer Vision · Creative Web
 
 <br>
 
+<!-- INTRO VIDEO / GIF
+     Upload `profile-intro.gif` to the root of your profile repository.
+     GitHub README files cannot play MP4 inline, so the uploaded intro is
+     converted to an animated GIF for native display.
+-->
+
 <a href="https://pin.it/3GUy55SAk">
-  <img src="https://img.shields.io/badge/▶%20WATCH%20MY%20INTRO-111111?style=for-the-badge&logo=pinterest&logoColor=white" alt="Watch Intro Video"/>
+  <img src="./profile-intro.gif" width="100%" alt="E Ruthvik Chowdary — Intro Video">
 </a>
+
+<br>
+
+▶ Watch the original video on Pinterest
+
+</div>
+
+<details>
+<summary><h2>⌄  About Me — click to open</h2></summary>
+
+<br>
+
+<div align="center">
+
+👋 Hi, I'm E RUTHVIK CHOWDARY
+
+A passionate developer who loves building creative, interactive, and experimental projects.
+
+</div>
+
+Focus
+
+What I build
+
+🐍 Python & Computer Vision
+
+Visual experiments, automation and computer-vision projects
+
+🤖 AI / ML
+
+Experimental ideas and practical prototypes
+
+🎮 Interactive Web Games
+
+Story-driven and interactive browser experiences
+
+🎨 Creative UI / UX
+
+Unusual interfaces and visual web experiences
+
+<br>
+
+🚀 I enjoy turning unusual ideas into real, working projects that people can interact with.
+
+🏆 I also enjoy participating in hackathons and tech events, building projects with teams under challenging time limits.
+
+🔭 Currently exploring
+
+AI · Computer Vision · Python · Creative Coding
+
+Build. Break. Learn. Repeat.
+
+📫 Feel free to explore my repositories and connect with me.
+
+<br>
+
+</details>
+
+<div align="center">
+
+🌐 Connect With Me
+
+<a href="https://discord.com/users/1071078354024923146">
+<img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://instagram.com/ruthv1kkk/">
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/e-ruthvik-chowdary-83b3a4403">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:weaver00026@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,aws,pandas,numpy,docker,mysql,sqlite,html&theme=dark" alt="Tech Stack"/>
 
 <br><br>
 
-> **Build. Break. Learn. Repeat.**
+
+
+
+
+
+</div>
+
+<div align="center">
+
+📊 GitHub Analytics
+
+<img src="https://github-readme-stats.shion.dev/api?username=ruthv1kkk&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="170" />
+<img src="https://streak-stats.demolab.com/?user=ruthv1kkk&theme=dark&hide_border=true" height="170" />
 
 <br>
 
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ruthv1kkk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+
 </div>
-
----
-
-## ⚡ About Me
-
-Hi! I'm **E RUTHVIK CHOWDARY**, a developer who enjoys turning unusual ideas into **real, interactive experiences**.
-
-I like experimenting with technology, creative interfaces, computer vision, AI/ML and web experiences — especially projects that are more fun to **use** than simply look at.
-
-### What I Build
-
-* 🐍 **Python & Computer Vision**
-* 🤖 **AI / ML Experiments**
-* 🎮 **Interactive Web Games**
-* 🎨 **Creative UI/UX Experiences**
-* ☁️ **Cloud & AWS Projects**
-* 🧪 **Experimental & Hackathon Projects**
-
-### Currently Exploring
-
-`AI` · `Computer Vision` · `Python` · `Creative Coding` · `Web Experiences`
-
----
-
-## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://discord.com/users/1071078354024923146">
-<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+🏆 GitHub Trophies
 
-<a href="https://instagram.com/ruthv1kkk">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/e-ruthvik-chowdary-83b3a4403">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:[weaver00026@gmail.com](mailto:weaver00026@gmail.com)">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=ruthv1kkk&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Development
+✍️ Developer Mindset
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
-### Data & AI
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas"/>
+🔝 Top Contributions
 
-### Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,docker"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=ruthv1kkk&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </div>
-
----
-
-## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ruthv1kkk&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+🐍 Contribution Activity
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthv1kkk&hide_border=true&theme=transparent"/>
+<img src="https://github.com/ruthv1kkk/ruthv1kkk/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
-<br>
+<br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthv1kkk&layout=compact&hide_border=true&theme=transparent"/>
 
-</div>
 
----
+<br><br>
 
-## 🏆 GitHub Trophies
+Thanks for stopping by.
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ruthv1kkk&theme=flat&no-frame=true&no-bg=true&margin-w=8"/>
+Build something worth remembering.
 
 </div>
-
----
-
-## 💬 Developer Philosophy
-
-<div align="center">
-
-### *"Build. Break. Learn. Repeat."*
-
-<br>
-
-**Ideas → Experiments → Code → Something Real**
-
-</div>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ruthv1kkk&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/ruthv1kkk/ruthv1kkk/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Explore my repositories • Build something cool • Keep experimenting**
-
-<br>
-
-<a href="https://github.com/ruthv1kkk">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-
