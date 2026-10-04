@@ -117,18 +117,6 @@ Build. Break. Learn. Repeat.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-🔝 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ruthv1kkk&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
-🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://github.com/ruthv1kkk/ruthv1kkk/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruthv1kkk&icon=4&color=06B6D4&style=for-the-badge" alt="Profile views"/>
 </p>
