@@ -1,4 +1,4 @@
-<!-- ===================== HERO VIDEO ===================== -->
+< >
 
 <p align="center">
   <video
@@ -20,14 +20,6 @@
   <strong>Creative Developer • Python • AI/ML • Computer Vision • Interactive Web</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ruthv1kkk">
-    <img src="https://img.shields.io/badge/GitHub-ruthv1kkk-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:weaver00026@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 <br>
 
