@@ -1,161 +1,138 @@
-<div align="center">
+<!-- ===================== HERO VIDEO ===================== -->
 
-✦ E RUTHVIK CHOWDARY
+<p align="center">
+  <video
+    src="./a3ea7067-17db-4a75-9882-743003f88b82(1).mp4"
+    width="100%"
+    autoplay
+    loop
+    muted
+    playsinline
+    controls>
+  </video>
+</p>
 
-Creative Developer · Python · AI/ML · Computer Vision · Creative Web
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=170&section=header&text=E%20RUTHVIK%20CHOWDARY&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+</p>
+
+<p align="center">
+  <strong>Creative Developer • Python • AI/ML • Computer Vision • Interactive Web</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ruthv1kkk">
+    <img src="https://img.shields.io/badge/GitHub-ruthv1kkk-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:weaver00026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <br>
 
-<!-- INTRO VIDEO / GIF
-     Upload `profile-intro.gif` to the root of your profile repository.
-     GitHub README files cannot play MP4 inline, so the uploaded intro is
-     converted to an animated GIF for native display.
--->
-
-<a href="https://pin.it/3GUy55SAk">
-  <img src="./profile-intro.gif" width="100%" alt="E Ruthvik Chowdary — Intro Video">
-</a>
-
-<br>
-
-▶ Watch the original video on Pinterest
-
-</div>
+✦ About Me
 
 <details>
-<summary><h2>⌄  About Me — click to open</h2></summary>
+<summary><strong>Click to explore</strong></summary>
 
 <br>
 
-<div align="center">
+Hi! I'm E RUTHVIK CHOWDARY, a passionate developer who loves building creative, interactive, and experimental projects.
 
-👋 Hi, I'm E RUTHVIK CHOWDARY
-
-A passionate developer who loves building creative, interactive, and experimental projects.
-
-</div>
-
-Focus
-
-What I build
+What I do
 
 🐍 Python & Computer Vision
 
-Visual experiments, automation and computer-vision projects
-
-🤖 AI / ML
-
-Experimental ideas and practical prototypes
+🤖 AI/ML Experiments
 
 🎮 Interactive Web Games
 
-Story-driven and interactive browser experiences
-
-🎨 Creative UI / UX
-
-Unusual interfaces and visual web experiences
-
-<br>
+🎨 Creative UI/UX & Web Experiences
 
 🚀 I enjoy turning unusual ideas into real, working projects that people can interact with.
 
-🏆 I also enjoy participating in hackathons and tech events, building projects with teams under challenging time limits.
+🏆 I also love participating in hackathons and tech events, where I work with teams to build projects under challenging time limits.
 
-🔭 Currently exploring
+Currently exploring
 
 AI · Computer Vision · Python · Creative Coding
 
 Build. Break. Learn. Repeat.
 
-📫 Feel free to explore my repositories and connect with me.
-
-<br>
+📫 Feel free to explore my repositories and connect with me!
 
 </details>
 
-<div align="center">
-
 🌐 Connect With Me
 
-<a href="https://discord.com/users/1071078354024923146">
-<img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://instagram.com/ruthv1kkk/">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/e-ruthvik-chowdary-83b3a4403">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:weaver00026@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://discord.gg/discord.com/users/1071078354024923146">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/instagram.com/ruthv1kkk/?utm_source=ig_web_button_share_sheet">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/linkedin.com/in/e-ruthvik-chowdary-83b3a4403">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:weaver00026@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-</div>
+⚡ Tech Stack
 
-<div align="center">
-
-⚙️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,aws,pandas,numpy,docker,mysql,sqlite,html&theme=dark" alt="Tech Stack"/>
-
-<br><br>
-
-
-
-
-
-
-</div>
-
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=0F80CC"/>
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+</p>
 
 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.shion.dev/api?username=ruthv1kkk&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="170" />
-<img src="https://streak-stats.demolab.com/?user=ruthv1kkk&theme=dark&hide_border=true" height="170" />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ruthv1kkk&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=ruthv1kkk&theme=transparent&hide_border=true" height="165"/>
+</p>
 
-<br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ruthv1kkk&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-
-</div>
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ruthv1kkk&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+</p>
 
 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ruthv1kkk&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ruthv1kkk&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</p>
 
-</div>
+✍️ Developer Quote
 
-<div align="center">
-
-✍️ Developer Mindset
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<br><br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 🔝 Top Contributions
 
-<img src="https://github-contributor-stats.vercel.app/api?username=ruthv1kkk&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-</div>
-
-<div align="center">
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ruthv1kkk&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
 
 🐍 Contribution Activity
 
-<img src="https://github.com/ruthv1kkk/ruthv1kkk/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<p align="center">
+  <img src="https://github.com/ruthv1kkk/ruthv1kkk/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruthv1kkk&icon=4&color=06B6D4&style=for-the-badge" alt="Profile views"/>
+</p>
 
-
-
-<br><br>
-
-Thanks for stopping by.
-
-Build something worth remembering.
-
-</div>
+<p align="center">
+  <sub>Built with curiosity, creativity, and a lot of debugging.</sub>
+</p>
