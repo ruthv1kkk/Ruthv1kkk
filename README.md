@@ -1,12 +1,5 @@
 <p align="center">
-  <src="https://raw.githubusercontent.com/ruthv1kkk/Ruthv1kkk/main/ezgif.com-video-to-gif-converter.gif" 
-    width="100%"
-    autoplay
-    loop
-    muted
-    playsinline
-    controls>
-  </video>
+<img<src="https://raw.githubusercontent.com/ruthv1kkk/Ruthv1kkk/main/ezgif.com-video-to-gif-converter.gif">
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=170&section=header&text=E%20RUTHVIK%20CHOWDARY&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
