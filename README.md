@@ -1,6 +1,6 @@
 <p align="center">
   <video
-    src="./a3ea7067-17db-4a75-9882-743003f88b82.mp4"
+    src="a3ea7067-17db-4a75-9882-743003f88b82.mp4"
     width="100%"
     autoplay
     loop
