@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF3B0,50:FFD166,100:F4A261&height=170&section=header&text=E%20RUTHVIK%20CHOWDARY&fontSize=38&fontColor=3D2600&animation=fadeIn&fontAlignY=38" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=170&section=header&text=E%20RUTHVIK%20CHOWDARY&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header"/>
 </p>
 
 <p align="center">
