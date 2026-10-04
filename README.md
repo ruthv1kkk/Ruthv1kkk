@@ -1,4 +1,6 @@
-< src="assets/a3ea7067-17db-4a75-9882-743003f88b82.mp4">
+<video src="assets/a3ea7067-17db-4a75-9882-743003f88b82.mp4" controls="controls" muted="muted" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
 
 <p align="center">
   <video
