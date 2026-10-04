@@ -1,33 +1,105 @@
-# 💫 About Me:
-# <br><br>Hi! I'm **E RUTHVIK CHOWDARY**, a passionate developer who loves building creative, interactive, and experimental projects.<br><br>💻 **What I do**<br><br>* 🐍 Python & Computer Vision<br>* 🤖 AI/ML Experiments<br>* 🎮 Interactive Web Games<br>* 🎨 Creative UI/UX & Web Experiences<br><br>🚀 I enjoy turning unusual ideas into **real, working projects** that people can interact with.<br><br>🏆 I also love participating in **hackathons and tech events**, where I work with teams to build projects under challenging time limits.<br><br>📌 **Currently exploring:**<br>AI • Computer Vision • Python  • Creative Coding<br><br>> **Build. Break. Learn. Repeat.**<br><br>📫 Feel free to explore my repositories and connect with me!<br>
+<div align="center">
 
+<a href="https://pin.it/3GUy55SAk">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.com/users/1071078354024923146) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/ruthv1kkk/?utm_source=ig_web_button_share_sheet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/e-ruthvik-chowdary-83b3a4403) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:weaver00026@gmail.com) 
+<img src="https://placehold.co/1200x500/0b0b0b/ffffff?text=%E2%96%B6+WATCH+MY+INTRO" width="100%" alt="Watch my intro video"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ruthv1kkk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ruthv1kkk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ruthv1kkk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ruthv1kkk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ▶️ Click the banner to watch the video
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ruthv1kkk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
+
+<br>
+
+<div align="center">
+
+# ✦ E RUTHVIK CHOWDARY
+
+### `Developer • Creative Coder • AI/ML Explorer`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ruthv1kkk-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ruthv1kkk)
+[![Instagram](https://img.shields.io/badge/Instagram-ruthv1kkk-111111?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/ruthv1kkk)
+
+<br><br>
+
+> **Build. Break. Learn. Repeat.**
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ruthv1kkk&icon=4&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details open>
+<summary><h2>⚡ About Me — Click to Expand / Minimize</h2></summary>
 
+<br>
 
+<div align="center">
 
+### 👋 Hi, I'm **E RUTHVIK CHOWDARY**
 
+**Developer • Creative Coder • AI/ML Explorer**
 
-![snake gif](https://github.com/ruthv1kkk/ruthv1kkk/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+---
+
+I'm a developer who enjoys turning unusual ideas into **real, interactive experiences**.
+
+I like experimenting with technology, creative interfaces, computer vision, AI/ML and web experiences — especially projects that are more fun to **use** than simply look at.
+
+### 💻 What I Build
+
+|    | Area                                  |
+| -- | ------------------------------------- |
+| 🐍 | **Python & Computer Vision**          |
+| 🤖 | **AI / ML Experiments**               |
+| 🎮 | **Interactive Web Games**             |
+| 🎨 | **Creative UI/UX Experiences**        |
+| ☁️ | **Cloud & AWS Projects**              |
+| 🧪 | **Experimental & Hackathon Projects** |
+
+### 🚀 What I Like
+
+> Turning random ideas into something people can actually interact with.
+
+I enjoy participating in **hackathons and tech events**, building projects under pressure, experimenting with APIs, and learning by actually creating things.
+
+### 🔭 Currently Exploring
+
+`AI` · `Computer Vision` · `Python` · `Creative Coding` · `Web Experiences`
+
+### 🎯 My Approach
+
+```text
+IDEA
+ ↓
+EXPERIMENT
+ ↓
+BUILD
+ ↓
+BREAK
+ ↓
+FIX
+ ↓
+LEARN
+ ↓
+REPEAT
+```
+
+<br>
+
+<div align="center">
+
+### ✦ Build. Break. Learn. Repeat. ✦
+
+</div>
+
+</details>
+
+---
+
