@@ -97,6 +97,28 @@ Hi! I'm **E RUTHVIK CHOWDARY**, a passionate developer who loves building creati
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ruthv1kkk/Ruthv1kkk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ruthv1kkk/Ruthv1kkk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/ruthv1kkk/Ruthv1kkk/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -120,4 +142,3 @@ Hi! I'm **E RUTHVIK CHOWDARY**, a passionate developer who loves building creati
 <p align="center">
   <sub>Built with curiosity, creativity, and a lot of debugging. ⚡</sub>
 </p>
-
