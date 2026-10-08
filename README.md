@@ -120,10 +120,10 @@ Hi! I'm **E RUTHVIK CHOWDARY**, a passionate developer who loves building creati
 </p>
 
 ---
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruthv1kkk&theme=algolia&margin-w=12&margin-h=12&column=4" alt="Ruthvik's GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ruthv1kkk&theme=onedark&column=3&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="Ruthvik's GitHub Achievements"/>
   </a>
 </p>
 
