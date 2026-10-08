@@ -120,7 +120,6 @@ Hi! I'm **E RUTHVIK CHOWDARY**, a passionate developer who loves building creati
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
